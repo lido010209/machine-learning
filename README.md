@@ -8,8 +8,6 @@ upGrad - DS C67 - Course 2 - Case Study: "Lead Scoring"
 
 Do Hoang Huong Lien - liendhhha140217@gmail.com
 
-Mamta S. Kamadi - mamta.kamadi@gmail.com
-
 Nguyen Huu Liem - liemhuunguyen98@gmail.com
 
 ## Problem Statement
